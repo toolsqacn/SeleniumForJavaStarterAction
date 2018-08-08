@@ -1,4 +1,4 @@
-# Selenium for Java 快速上手之独门3步曲
+# Selenium for Java 快速上手实战之独门3步曲
 
 ## 项目介绍
 最近在编写一本Selenium高级教程《Selenium自动化测试的高级技巧》时，由于想照顾一下没有Selenium基础的同学，对Selenium的入门和使用进行了导入性介绍，在编写过程中突然灵光独照，发现掌握Selenium 来实现Web UI自动化测试原来可以如此简单，简单到什么程度？**只需要一个Chat**。
